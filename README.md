@@ -7,11 +7,11 @@ described [here](https://github.com/lauradiosan/AI-UBB/blob/main/2021-2022/labs/
 
 * `Problem 2` directory contains the solution to the problem of searching for communities 
 in a graph with the Greedy method (more details about the 
-problem are [here](https://github.com/lauradiosan/AI-UBB/blob/main/2021-2022/labs/lab02/AI-lab02.md))
+problem are [here](https://github.com/lauradiosan/AI-UBB/blob/main/2021-2022/labs/lab02/AI-lab02.md)).
 
 * `Problem 3` directory contains the solution to the searching for communities in a graph problem but it's solved with a genetic algorithm 
 ([GA](https://en.wikipedia.org/wiki/Genetic_algorithm)). 
-More about the problem [here](https://github.com/lauradiosan/AI-UBB/blob/main/2021-2022/labs/lab03/AI-lab03.md)
+More about the problem [here](https://github.com/lauradiosan/AI-UBB/blob/main/2021-2022/labs/lab03/AI-lab03.md).
 
 * `Problem 4` direcotry contains the solution to the TSP problem in a graph solved with an evolutionary algorithm. 
 [The problem detailes](https://github.com/lauradiosan/AI-UBB/blob/main/2021-2022/labs/lab04/AI-lab04.md).
