@@ -1,0 +1,5 @@
+__pycache__
+chromosomes/__init__.py
+data/read_file.sh
+girvan_newman.py
+.idea

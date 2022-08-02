@@ -1,0 +1,5 @@
+.idea
+__pycache__
+fcOptimisation/BinChromosome.py
+fcOptimisation/RealChromosome.py
+fcOptimisation/utils.py
